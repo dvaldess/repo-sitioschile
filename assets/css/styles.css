@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-negro {
+    background-color: black;
+}
+
+.logo {
+    height:53px;
+    width: 60px;
+}
+
+.img-card {
+    height:130px;
+}
+
+.linea {
+	position: relative;
+	background: #17A2B8;
+	color: #17A2B8;
+    height: 1px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
